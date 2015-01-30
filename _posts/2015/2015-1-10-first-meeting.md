@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "一段过去的对话"
+title: "1024Club第一次聚会"
 image:
   feature: abstract-10.jpg
-tags: [感悟]
+tags: [聚会]
 comments: true
 share: true
 ---
