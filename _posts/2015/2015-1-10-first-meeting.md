@@ -16,7 +16,7 @@ share: true
 
 
 ![大合影](http://pic.yupoo.com/peigen123_v/EoyTZCsY/5Dwvo.jpg)
-![会议中](http://pic.yupoo.com/peigen123_v/EoyXkKD1/f4uZe.jpg)
-![会议中](http://pic.yupoo.com/peigen123_v/EoyXkan9/COIMI.jpg)
-![会议中](http://pic.yupoo.com/peigen123_v/EoyXj93L/14pJYp.jpg)
+![会议中](http://pic.yupoo.com/peigen123_v/EoCqgXwI/Qpvsb.jpg)
+![会议中](http://pic.yupoo.com/peigen123_v/EoCqh0VT/tuYkf.jpg)
+![会议中](http://pic.yupoo.com/peigen123_v/EoCqDRJH/12Ou2o.jpg)
 
