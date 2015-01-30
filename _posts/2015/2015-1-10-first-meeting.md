@@ -18,9 +18,12 @@ share: true
 
 
 ![大合影](http://pic.yupoo.com/peigen123_v/EoyTZCsY/5Dwvo.jpg)
-![会议中](http://pic.yupoo.com/peigen123_v/EoCqgXwI/Qpvsb.jpg)
-![会议中](http://pic.yupoo.com/peigen123_v/EoCqh0VT/tuYkf.jpg)
-![会议中](http://pic.yupoo.com/peigen123_v/EoCqDRJH/12Ou2o.jpg)
+
+![第一次线下聚会](http://pic.yupoo.com/peigen123_v/EoCqgXwI/Qpvsb.jpg)
+
+![第一次线下聚会](http://pic.yupoo.com/peigen123_v/EoCqh0VT/tuYkf.jpg)
+
+![第一次线下聚会](http://pic.yupoo.com/peigen123_v/EoCqDRJH/12Ou2o.jpg)
 
 ---
 题图：1024Club微信公众号二维码
