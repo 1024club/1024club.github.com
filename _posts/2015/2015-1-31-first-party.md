@@ -27,6 +27,7 @@ share: true
 
 ---
 ## 活动记录
+
 ![活动记录](http://pic.yupoo.com/peigen123_v/Ep19YNIS/qgwVk.jpg)
 
 讲述1024Club的起源
@@ -77,6 +78,7 @@ share: true
 
 ---
 ## 活动后的聚餐
+
 ![活动记录](http://pic.yupoo.com/peigen123_v/Ep1a12Ff/V8TNt.jpg)
 
 ![活动记录](http://pic.yupoo.com/peigen123_v/Ep1a1uvY/gJwmY.jpg)
@@ -84,9 +86,11 @@ share: true
 ![活动记录](http://pic.yupoo.com/peigen123_v/Ep1a1J9M/y8tpw.jpg)
 
 ## 鸣谢
+
 感谢猪八戒赞助场地、午餐
 
 ##我们在活动组织上还需进步，中间也出现好些纰漏，一步步迭代进步吧，最后感谢各位的参与和支持
+
 ![大合影](http://pic.yupoo.com/peigen123_v/Ep1a0Yrp/tZ4m5.jpg)
 
 (实际到会人数并非这样)
