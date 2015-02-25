@@ -23,7 +23,7 @@ share: true
 7.  15：20－15：30 茶歇
 8.  15：30－17：00《Web应用安全技术分享》讲师：阿锋（易极付）
 
-## [开场Slide by Peigen](http://peigen.info/drafts/1024Club-first-party/1024Club-first-party-intro.htm)
+## [开场Slide by Peigen](http://peigen.info/drafts/ppt/1024Club-first-party-intro.htm)
 
 ---
 ## 活动记录
