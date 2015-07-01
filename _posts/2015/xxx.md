@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2015年第二次大型分享活动-QCon归来"
+title: "20xxxn归来"
 image:
   feature: abstract-10.jpg
 tags: [1024Club]
