@@ -46,7 +46,7 @@ bing_verify:
 #timezone:    America/New_York
 timezone:    Asia/Chongqing
 future:      true
-highlighter: pygments
+highlighter: rouge
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
