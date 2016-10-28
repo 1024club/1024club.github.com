@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1024Club活动——你的应用还安全吗？"
+title: "你的应用还安全吗？"
 image:
   feature: abstract-10.jpg
 tags: [1024Club]
@@ -13,7 +13,7 @@ published: false
 
 
 
-# 讲师介绍：
+# 主题：
 1. **《敏捷开发如何玩转SDL(安全开发生命周期)》** By **陈继安-猪八戒**
 猪八戒安全团队负责人，wooyun核心白帽子。参与猪八戒网交易，支付等多个系统的设计与开发。
 
