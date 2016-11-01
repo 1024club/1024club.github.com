@@ -11,6 +11,10 @@ published: true
 
 ![image](http://pic.yupoo.com/peigen123_v/FXscDQai/CKeQ4.png)
 
+
+
+
+
 **地点：** 互联网产业园13栋易一天使咖啡馆
 
 **时间：** 10月22日（周六）10：00-14：00
@@ -24,9 +28,9 @@ published: true
    **讲师介绍：陈继安，猪八戒安全团队负责人，wooyun核心白帽子。参与猪八戒网交易，支付等多个系统的设计与开发。**
 ![image](http://pic.yupoo.com/peigen123_v/FXsscfxp/nE7Cp.jpg)
 
-   同志们很认真的在听继安同学分享~
+   同学们很认真的在听继安分享~
 
- ![image](http://pic.yupoo.com/peigen123_v/FXswzzNn/O4R8I.jpg)
+  ![image](http://pic.yupoo.com/peigen123_v/FXswzzNn/O4R8I.jpg)
  
 
  
