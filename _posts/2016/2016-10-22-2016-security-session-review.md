@@ -77,7 +77,7 @@ published: true
    **讲师介绍：咖啡-易极付，易极付信息安全工程师，主要负责安全攻防研究，安全评估，安全培训，应急响应等。**
 
  ![image](http://pic.yupoo.com/peigen123_v/FXt2FTGT/FKogH.jpg)
- 阿锋同学开讲啦~ 
+ 咖啡同学开讲啦~ 
  ![image](http://pic.yupoo.com/peigen123_v/FXt2GbD7/uFraj.jpg)
  
  
