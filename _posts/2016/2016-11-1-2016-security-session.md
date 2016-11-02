@@ -58,4 +58,4 @@ published: ture
 
 
 ---
-题图：取自1024Club最新Logo
+题图：取自1024Club最新Logo——感谢设计师 啊教授
