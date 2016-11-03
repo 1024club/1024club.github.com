@@ -1,4 +1,4 @@
 _site/
 .sass-cache/
 
-_posts/.DS_Store
+.DS_Store
