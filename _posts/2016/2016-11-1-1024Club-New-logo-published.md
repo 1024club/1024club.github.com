@@ -13,7 +13,8 @@ published: ture
 
 ![image](http://pic.yupoo.com/peigen123_v/FXscDQai/CKeQ4.png)
 
-#新Logo的形成路径如下：
+
+# 新Logo的形成路径如下：
 
 
 ![image](http://pic.yupoo.com/peigen123_v/FY2Ywjjn/h1u63.png)
@@ -57,20 +58,6 @@ published: ture
 ![image](http://pic.yupoo.com/peigen123_v/FYcuBU77/Wb36P.png)
 
 ![image](http://pic.yupoo.com/peigen123_v/FY31p1Ur/nSliY.png)
-
-
-
-
-
-
-
-
-
-
-**赞助商持续招募中……有意者与 <mailto:service@1024club.net> 联系**
-
-
-
 
 ---
 题图：取自1024Club最新Logo——感谢设计师 啊教授
