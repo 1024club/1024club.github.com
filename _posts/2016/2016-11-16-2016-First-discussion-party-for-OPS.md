@@ -8,9 +8,7 @@ comments: true
 share: true
 published: true
 ---
-# 1024Club-11月运维讨论活动通知
 ![image](http://pic.yupoo.com/peigen123_v/FXscDQai/CKeQ4.png)
-
 
 
 **本次运维讨论话题**
