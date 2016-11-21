@@ -36,9 +36,13 @@ published: true
 **本次讨论会的照片分享**
 
 ![image](http://photo.yupoo.com/peigen123/G16j0LrC/medish.jpg)
+
 交流ING
+
 ![image](http://photo.yupoo.com/peigen123/G16j17RX/medish.jpg)
+
 很认真的参与讨论
+
 ![image](http://photo.yupoo.com/peigen123/G16j1qZs/medish.jpg)
 
 ![image](http://photo.yupoo.com/peigen123/G16j1NMD/medish.jpg)
