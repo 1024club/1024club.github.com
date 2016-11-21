@@ -33,6 +33,9 @@ published: true
 
 ---
 
+本次讨论会由的易极付、猪八戒、重庆联付通、思建科技有限公司、大龙网的同学们一起讨论。
+
+
 **本次讨论会的照片分享**
 
 ![image](http://photo.yupoo.com/peigen123/G16j0LrC/medish.jpg)
@@ -55,8 +58,6 @@ published: true
 #大合影#
 （有些参加的同学已经先离开现场）
 ![image](http://photo.yupoo.com/peigen123/G16j0rHq/medish.jpg)
-
-本次讨论会由的易极付、猪八戒、重庆联付通、思建科技有限公司、大龙网的同学们一起讨论。
 
 1024Club想让每一个参加的同学都真正的收获到真正的干货。
 
