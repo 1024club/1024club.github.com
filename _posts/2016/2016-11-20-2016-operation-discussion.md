@@ -36,9 +36,9 @@ published: true
 **本次讨论会的照片分享**
 
 ![image](http://photo.yupoo.com/peigen123/G16j0LrC/medish.jpg)
-
+交流ING
 ![image](http://photo.yupoo.com/peigen123/G16j17RX/medish.jpg)
-
+很认真的参与讨论
 ![image](http://photo.yupoo.com/peigen123/G16j1qZs/medish.jpg)
 
 ![image](http://photo.yupoo.com/peigen123/G16j1NMD/medish.jpg)
@@ -52,9 +52,9 @@ published: true
 （有些参加的同学已经先离开现场）
 ![image](http://photo.yupoo.com/peigen123/G16j0rHq/medish.jpg)
 
-感谢参与本次讨论会的易极付、猪八戒、重庆联付通、思建科技有限公司、大龙网的同学们。
+本次讨论会由的易极付、猪八戒、重庆联付通、思建科技有限公司、大龙网的同学们一起讨论。
 
-1024Club想让每一个参加的同学都真正的收获到知识。
+1024Club想让每一个参加的同学都真正的收获到真正的干货。
 
 我们一定努力做好每一次的分享活动和讨论会。
 
