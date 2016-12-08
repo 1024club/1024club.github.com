@@ -11,13 +11,13 @@ published: true
 
 2016年11月26日，由**笨熊金服**独家冠名赞助、**易一天使**主办的【2016重庆前端交流大会】在重庆科技馆顺利举行。
 
-![image](http://photo.yupoo.com/peigen123/G3K0Qubl/medish.jpg)
+![image](http://pic.yupoo.com/peigen123_v/G3KsKKnz/kldgM.jpg)
 
 本次大会线上报名通道的浏览量达到了14672，会场准备的456个座位更是座无虚席，跟去年的“渝FE2015” 相比直接翻了一倍，可以说再一次创造了西南片区互联网开发技术类交流会议的奇迹，同时也让我们看到了重庆地区近年来互联网行业突飞猛进的发展势头。
 
 > **大会当日签到台早早排起了长龙**
 >
-![image](http://photo.yupoo.com/peigen123/G3K0PRdz/medish.jpg)
+![image](http://pic.yupoo.com/peigen123_v/G3KsK729/medium.jpg)
 
 
 
@@ -25,14 +25,14 @@ published: true
 
 > **活动发起人唐友华介绍活动历史并进行开场动员**
 >
-![image](http://photo.yupoo.com/peigen123/G3K0RNoE/medish.jpg)
+![image](http://pic.yupoo.com/peigen123_v/G3KsM3YF/medium.jpg)
 
 
 
 和去年依托猪八戒网主办不同的是今年的大会由易一天使负责主办，相比之下在场馆、嘉宾差旅、会务等环节更加专业。易一天使投资总监、易一众创空间负责人孙敏捷在致辞中表示希望通过此次活动让重庆与全国、全世界都产生链接。今天重庆有猪八戒、有笨熊金服、有1024club、有加班狗等为代表的互联网企业。但是还不够，希望可以有更多的猪八戒。那这一定离不开一个良好的互联网技术氛围，离不开这样一群优秀的技术人员。希望重庆的技术人员可以走在全国前列甚至全球前列，同时也希望更多优秀的技术人员可以来重庆，让重庆的技术氛围随着重庆的 GDP 一起飞起来！
 
 > **易一天使投资总监、易一众创空间负责人孙敏捷致辞**
-![image](http://photo.yupoo.com/peigen123/G3K0PA0o/medish.jpg)
+![image](http://pic.yupoo.com/peigen123_v/G3KsJMNj/medium.jpg)
 
 
 
@@ -40,7 +40,7 @@ published: true
 
 > **会后主题满意度调查结果**
 >
-![image](http://photo.yupoo.com/peigen123/G3K0PdND/medish.jpg)
+![image](http://pic.yupoo.com/peigen123_v/G3KsJul7/medium.jpg)
 
 
 
@@ -64,14 +64,14 @@ published: true
 
 > **BAT资深专家齐聚一堂探讨2016学前端的正确姿势**
 >
-![image](http://photo.yupoo.com/peigen123/G3K0RgvS/medish.jpg)
+![image](http://pic.yupoo.com/peigen123_v/G3KsLz1N/medium.jpg)
 
 大会结束后，我们也进行了问卷调查，调查的结果显示超过60%的参与调查者对本次活动整体上比较满意，7.9%的参与调查者对本次活动有表示强烈不满，不满主要集中在在议程时间过于紧凑，没有多少交流和休息时间，另外由于场馆限制，午餐也是大家普遍体验比较糟糕的环节，组委会已逐一梳理调查意见并会在明年的活动中引以为戒。
 
 
 > **会后整体满意度调查**
 >
-![image](http://photo.yupoo.com/peigen123/G3K0OTxQ/medish.jpg)
+![image](http://pic.yupoo.com/peigen123_v/G3KsJa7R/medium.jpg)
 
 
 
@@ -79,21 +79,21 @@ published: true
 
 >**本次大会最大的收获调查统计结果**
 >
-![image](http://photo.yupoo.com/peigen123/G3K0OE7I/medish.jpg)
+![image](http://pic.yupoo.com/peigen123_v/G3KsIW8H/medium.jpg)
 
 
 对于未来比较感兴趣的技术话题依然集中在广义的大前端领域，最受欢迎的是端开发和UI设计以及用户体验。
 
 >**未来参会主题方向调查结果**
 >
-![image](http://photo.yupoo.com/peigen123/G3K0OszI/medish.jpg)
+![image](http://pic.yupoo.com/peigen123_v/G3KsIHve/medium.jpg)
 
 
 
 最后，再次郑重感谢本次大会的主办方、协办方、赞助商、合作社区和志愿者，同时我们也希望有更多的公司和个人一起参与进来，让重庆地区的技术氛围跟着GDP一起飞。
 
-![image](http://photo.yupoo.com/peigen123/G3K0NWbB/medish.jpg)
+![image](http://pic.yupoo.com/peigen123_v/G3KsIa3X/medium.jpg)
 
-![image](http://photo.yupoo.com/peigen123/G3K0ObYF/medish.jpg)
+![image](http://pic.yupoo.com/peigen123_v/G3KsIspl/medium.jpg)
 
-![image](http://photo.yupoo.com/peigen123/G3K0NKKK/medish.jpg)
+![image](http://pic.yupoo.com/peigen123_v/G3KsHWHP/medium.jpg)
